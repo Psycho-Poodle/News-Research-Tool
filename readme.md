@@ -10,9 +10,9 @@ The **News Research Tool** is a Streamlit-based web application designed to proc
 - **Interactive Question Answering:** Submit queries and receive relevant answers derived from the processed article content.
 - **Source Referencing:** Displays the sources used to generate each answer, ensuring transparency and credibility.
 
-## Demo
+<!-- ## Demo
 
-*Consider adding a screenshot or GIF of your application here to showcase its interface and functionality.*
+*Consider adding a screenshot or GIF of your application here to showcase its interface and functionality.* -->
 
 ## Installation
 
